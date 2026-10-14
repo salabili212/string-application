@@ -11,6 +11,13 @@ public class VariableApp {
         boolean pets = false;
         String message = "You are the best";
 
+        System.out.println("My favorite color is "+favoriteColor);
+        System.out.println("I started year up program in "+year);
+        System.out.println("My middle initial is "+middleInitial);
+        System.out.println("Do I have a pets?" + pets);
+        System.out.println("Suliman "+ message);
+
+
         //step2
         int weekDays = 7;
         float priceOfCoffee = 4.99f;
